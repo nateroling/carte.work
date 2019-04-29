@@ -1,0 +1,7 @@
+_replicator/
+config.js
+config.json
+log.txt
+node_modules/
+routes/
+pouch__all_dbs__/
